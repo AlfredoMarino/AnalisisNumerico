@@ -14,7 +14,7 @@ Metodo de trapecio compuesto
 Todos los metodos incluyen un interpretador de funciones matematicas para realizar evaluaciones matematicas, derivadas, etc.
 Todos los metodos ordenan los parametros de entrada (x) mediante el metodo de la burbuja
 
-Este es mi primer proyecto de java, esta bastante desordenado y poco documentado, pero sus resultados son precisosos y contiene gran cantidad de validaciones para que los resultados sean los esperados.
+Este es mi primer proyecto de java, esta bastante desordenado y poco documentado, pero sus resultados son precisos y contiene gran cantidad de validaciones para que los resultados sean los esperados.
 
 
 Espero que les sea de utilidad.
